@@ -8,3 +8,27 @@ h1 {
 .tony-color {
   color: orange;
 }
+
+.section-1 {
+  display: flex;
+}
+.Tony-stark {
+  width: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.Tony-stark img {
+  width: 100%;
+}
+
+.Hire-me {
+  text-decoration: none;
+  background-image: linear-gradient(#ff9874, #ff6b4d);
+  color: whitesmoke;
+  font-size: 18px;
+  font-weight: 700;
+  height: 42px;
+  width: 145px;
+  border-radius: 5px;
+}
