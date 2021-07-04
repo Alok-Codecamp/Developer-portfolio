@@ -58,9 +58,11 @@ section.Dream-big {
   background-image: url("/Images/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
+  margin: 100px 0px 200px 0px;
 }
 .experience-aria {
   padding-left: 36px;
+  padding-right: 36px;
 }
 .experience-aria div {
   box-shadow: 5px 7px 40px gray;
@@ -78,4 +80,7 @@ section.Dream-big {
   border-left: 7px solid;
   border-image: linear-gradient(180deg, blue, cyan);
   border-image-slice: 1;
+}
+footer p {
+  text-align: center;
 }
